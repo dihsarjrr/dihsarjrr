@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dart, Flutter, Python, Django and Swift
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Flutter projects 
-- 📫 How to reach me rashidjr007@outlook.com
+- 📫 How to reach me rashidjr007@outlook.com or https://twitter.com/dihsarrrr
 
 <!---
 dihsarjrr/dihsarjrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
